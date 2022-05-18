@@ -2,22 +2,14 @@
 
 ## Let's try to recreate this website
 
-- You can choose whatever images/movie you want
+### Desktop Header
 
-- if you do this the same way I did you'll need to:
+![Desktop](./images/Desktop.png)
 
-  - use positioning
+### Desktop Full Layout
 
-  - change display types
+![Tablet](./images/Desktopfull.png)
 
-- I used a pattern from here for the backgrounds: [Hero Patterns](https://www.heropatterns.com/)
+### Mobile Layout
 
-- Images from [placecage](https://www.placecage.com/)
-
-![Desktop](./design/desktop.PNG)
-
-![Tablet](./design/tablet.PNG)
-
-![Mobile](./design/mobile.PNG)
-
-![Animation](./design/Animation.gif)
+![Mobile](./images/Mobile.png)
